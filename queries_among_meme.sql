@@ -10,7 +10,7 @@ DROP TABLE IF EXISTS characters_armors;
 DROP TABLE IF EXISTS armors;
 DROP TABLE IF EXISTS armors_types;
 
-DROP TALBE IF EXISTS characters_weapons;
+DROP TABLE IF EXISTS characters_weapons;
 DROP TABLE IF EXISTS weapons;
 DROP TABLE IF EXISTS weapons_types;
 
